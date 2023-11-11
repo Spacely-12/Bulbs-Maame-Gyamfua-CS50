@@ -8,7 +8,8 @@ void print_bulb(int bit);
 
 int main(void)
 {
-    // TODO
+   
+ // TODO
 }
 
 void print_bulb(int bit)
